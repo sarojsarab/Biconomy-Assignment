@@ -1,5 +1,4 @@
 # Blockchain automation for Goerli test network
-Biconomy Assignment erc20 token transfer on goerli test network
 
 To run the test script follow the below steps
 1. Make sure you have Node v18 is installed.
